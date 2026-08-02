@@ -7,34 +7,53 @@
 ## Pages
 
 ### דף הבית
-https://-cea5d684.zappy5.app
+https://example.com
 מומחים בטיפול בבעיות שתן לגברים ובעיות פרוסטטה. פתרונות מתקדמים ואפקטיביים. צור קשר עוד היום לייעוץ חינם!
 
 ### שירותים
-https://-cea5d684.zappy5.app/services
+https://example.com/services
 שירותי טיפול מקיפים בבעיות שתן לגברים: אבחון מתקדם, טיפול בפרוסטטה, ייעוץ אישי ומעקב רפואי. פתרונות מותאמים אישית!
 
 ### אודות
-https://-cea5d684.zappy5.app/about
+https://example.com/about
 הכירו את נקודה בזמן - מרפאה מובילה לטיפול בבעיות שתן לגברים ובעיות פרוסטטה. ניסיון, מומחיות ואכפתיות בכל טיפול.
 
 ### צור קשר
-https://-cea5d684.zappy5.app/contact
+https://example.com/contact
 צור קשר עם נקודה בזמן לקביעת פגישה לטיפול בבעיות שתן לגברים ובעיות פרוסטטה. נשמח לעזור ולענות על כל שאלה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-cea5d684.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-cea5d684.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-cea5d684.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `subject` (select)
+  - `message` (textarea)
+  - `terms` (checkbox, required)
 
 ---
 
@@ -51,7 +70,8 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Additional Resources
+# Machine-readable feeds
 
-- **Sitemap**: https://-cea5d684.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-cea5d684.zappy5.app/robots.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
