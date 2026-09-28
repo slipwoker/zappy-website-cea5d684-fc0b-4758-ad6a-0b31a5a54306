@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://example.com</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://example.com/services</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/about</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/contact</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/prostate-alternative-treatment</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/blog/strengthen-urine-flow</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/blog/prostate-nutrition</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/blog/complete-emptying</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/privacy</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://example.com/terms</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://example.com/accessibility</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
